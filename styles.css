@@ -73,8 +73,3 @@ body {
     color: var(--cor-texto-card);
     background-color: var(--cor-texto);
 }
-
-iframe {
-    display: flex;
-    text-align: center;
-}
