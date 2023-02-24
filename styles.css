@@ -1,0 +1,80 @@
+@import url("styles/carrossel.css");
+
+:root {
+    --cor-fundo: #26335D;
+    --cor-texto: #FFFFFF;
+    --cor-texto-card: #000000;
+    --font-principal: "Montserrat";
+}
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    font-family: var(--font-principal);
+}
+
+.logo {
+    display: flex;
+    margin: 1em 1em 1em 4em;
+    align-items: center;
+}
+
+.img__livro {
+    width: 50px;
+}
+
+.text__logo {
+    text-align: center;
+    padding: 1em;
+}
+
+.cabeçalho__banner {
+    display: flex;
+}
+
+.cabeçalho__imagem-png {
+    width: 150px;
+    margin: 1em 0.5em;
+}
+
+.banner {
+    padding: 1em;
+}
+
+.cabeçalho__banner {
+    text-justify: auto;
+}
+
+.cabeçalho__titulo {
+    font-family: var(--fonte-principal);
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+
+.cabeçalho__texto {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.metodologia__texto {
+    display: flex;
+    margin: 1em;
+}
+
+.docente__texto {
+    margin: 0 1em;
+    padding: 1em;
+    font-size: 13px;
+    font-weight: 700;
+    text-justify: auto;
+    border-radius: 10px;
+    width: 50%;
+    color: var(--cor-texto-card);
+    background-color: var(--cor-texto);
+}
+
+iframe {
+    display: flex;
+    text-align: center;
+}
