@@ -143,6 +143,10 @@ span {
 	text-align: center;
 }
 
+iframe {
+    border-radius: 24px;
+}
+
 footer {
     text-align: center;
     padding: 2em;
