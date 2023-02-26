@@ -143,9 +143,9 @@ span {
 	text-align: center;
 }
 
-footer p {
-    margin: 3em 0 1em 0;
+footer {
     text-align: center;
+    padding: 2em;
 }
 
 footer a {
