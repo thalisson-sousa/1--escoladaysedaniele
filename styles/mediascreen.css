@@ -1,0 +1,95 @@
+@media screen and (min-width: 900px) and (max-width: 1700px){
+    .logo {
+        justify-content: center;
+    }
+
+    .metodologia__texto {
+        margin: 1em;
+        padding: 2em;
+        
+    }
+
+    .docente__texto {
+        text-align: center;
+    }
+
+    .cabeçalho {
+        position: relative;
+        left: 170px;
+        width: 940px;
+        border: 1px solid red;
+    }
+
+    .cabeçalho__titulo {
+        text-align: center;
+    }
+
+    .cabeçalho__texto {
+        position: relative;
+        bottom: -50px;
+    }
+
+    .imagem__midia {
+        position: relative;
+        left: 320px;
+    }
+
+    .mapa-conteudo {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+
+    iframe {
+        width: 950px;
+    }
+
+}
+
+@media screen and (min-width: 1700px) and (max-width: 1920px){
+    .logo {
+        justify-content: center;
+    }
+
+    .metodologia__texto {
+        margin: 1em;
+        padding: 2em;
+        
+    }
+
+    .docente__texto {
+        text-align: center;
+    }
+
+    .cabeçalho {
+        position: relative;
+        left: 445px;
+        width: 940px;
+        border: 1px solid red;
+    }
+
+    .cabeçalho__titulo {
+        text-align: center;
+    }
+
+    .cabeçalho__texto {
+        position: relative;
+        bottom: -50px;
+    }
+
+    .imagem__midia {
+        position: relative;
+        left: 320px;
+    }
+
+    .mapa-conteudo {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+
+    iframe {
+        width: 950px;
+    }
+
+}
