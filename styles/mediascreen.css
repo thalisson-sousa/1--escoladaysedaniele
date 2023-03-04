@@ -93,3 +93,21 @@
     }
 
 }
+
+@media screen and (min-width: 720px) and (max-width: 1360px) {
+    .logo {
+        justify-content: center;
+    }
+
+    .imagem__midia {
+        position: relative;
+        left: 190px;
+        justify-content: center;
+    }
+
+    .mapa-conteudo {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+}
