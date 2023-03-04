@@ -8,3 +8,4 @@ O projeto foi montado usando a Metodologia Mobile First.
 
 https://user-images.githubusercontent.com/27894150/222866063-1da04c38-e3b1-4261-82e8-c8c78c02d372.mp4
 
+link para a visualização do projeto: https://escola-dayse-daniele.vercel.app/
